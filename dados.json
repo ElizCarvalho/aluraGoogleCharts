@@ -1,0 +1,73 @@
+{
+    "cols":[
+        {
+            "label":"Nome", 
+            "type": "string"
+        },
+        {
+            "label":"Valor", 
+            "type": "number"
+        },
+        {
+            "type":"string", 
+            "role": "annotation"
+        }
+    ],
+    "rows":[
+        {"c":
+            [
+                { "v":"João Antônio Marques" },
+                { "v":25.110,"f":null },
+                { "v":25.110,"f":null }
+            ]
+        },
+        {"c":
+            [
+                { "v":"Ana Siqueira" },
+                { "v":10.020,"f":null }
+            ]
+        },
+        {"c":
+            [
+                { "v":"Alcides V. de Oliveira"},
+                { "v":30.240, "f":null }
+            ]
+        },
+        {"c":
+            [
+                { "v":"Rafael Antunes"},
+                { "v":2.310, "f":null }
+            ]
+        },
+        {"c":
+            [
+                { "v":"Bianca M. Sampaio" },
+                { "v":8.542, "f":null }
+            ]
+        },
+        {"c":
+            [
+                { "v":"Victor Barbosa" },
+                { "v":6.521, "f":null }
+            ]
+        },
+        {"c":
+            [
+                { "v":"Maria do Carmo Prado" },
+                { "v":12.327, "f":null }
+            ]
+        },
+        {"c":
+            [
+                { "v":"Maria Heloísa de Almeida" },
+                { "v":9.764, "f":null }
+            ]
+        },
+        {"c":
+            [
+                { "v":"Rita de Cássia Cuaron" },
+                { "v":20.174, "f":null }
+            ]
+        }
+    ]
+}
